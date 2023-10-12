@@ -6,5 +6,3 @@ fn main() {
         .run(tauri::generate_context!())
         .expect("error while running tauri application");
 }
-
-//bG,z60;?Zi)T:vsbJUAs#>x:<
